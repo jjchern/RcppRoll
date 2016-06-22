@@ -7,8 +7,12 @@ for generating your own fast, C++ backed rollers.
 
 Install me with devtools:
 
-    install_github("kevinushey/RcppRoll")
+```R
+devtools::install_github("kevinushey/RcppRoll")
+```
 
 and check some examples with
 
-    example(rollit)
+```R
+example(rollit)
+```
